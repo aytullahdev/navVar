@@ -1,0 +1,29 @@
+
+/*nav bar*/
+.navbar ul li a{
+	font-size: 12px;
+	font-family: 'Roboto Mono', monospace;
+}
+.navbar ul{
+   margin-right: 10px!important;
+
+
+}
+.asd .dropdownitem a:hover{
+	background-color: black!important;
+	font-size: 16px;
+	color:white;
+
+}
+.navbar .navbar-brand {
+	font-family: 'Pacifico', cursive;
+	font-size: 25px;
+}
+/*........................*/
+/*all nav icon*/
+.iconify {
+	margin-right: 2px!important;
+	margin-bottom: 3px;px!important;
+
+}
+/*.....................*/
